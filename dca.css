@@ -1,0 +1,99 @@
+.a{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.a_inner{
+    background-color: rgb(240, 247, 247);
+    width: 80%;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+   border-radius: 20px;
+   box-shadow: 5px 5px 10px black;
+}
+#back{
+    margin-left: 20px;
+    font-size: 20px;
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    color: aliceblue;
+    
+}
+#adca{
+    padding: 50px;
+    font-size: 40px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: 40px;
+    font-weight: 700;
+    font-style: normal;
+    height: 40px;
+}
+#sy{
+    margin-left: 75px;
+}
+.apply{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+margin: auto;
+border-radius: 10px;
+box-shadow: 2px 2px 5px black;
+    background-color: rgb(86, 10, 18);
+
+}
+#ap{
+    padding: 10px;
+}
+
+@media only screen and (max-width: 600px){
+
+    .a{
+        background-color: blanchedalmond;
+        width: 100%;
+        height: 900px;
+        position: relative;
+    }
+    .a_inner{
+        background-color: rgb(240, 247, 247);
+        width: 90%;
+        height: 800px;
+        margin-left: auto;
+        margin-right: auto;
+       border-radius: 20px;
+       box-shadow: 5px 5px 10px black;
+    }
+    #adca{
+        padding: 40px;
+        font-size: 40px;
+        font-family: "Raleway", sans-serif;
+        font-optical-sizing: 40px;
+        font-weight: 700;
+        font-style: normal;
+        height: 40px;
+    }
+    #sy{
+        margin-left: 30px;
+    }
+    .apply{
+        width: 250px;
+        height: 50px;
+        text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+        background-color: rgb(86, 10, 18);
+    
+    }
+    #ap{
+        padding: 10px;
+    }
+    #Syllabus{
+        margin-left: 2px;
+    }
+    
+
+}
