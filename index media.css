@@ -1,0 +1,315 @@
+@media only screen and (max-width: 600px){
+    *{margin: 0;
+        padding: 0;}
+        
+        
+        .header{
+            background-color: #0b1354;
+            width: 100%;
+            height: 6rem;
+          position: relative;
+        }
+    
+        .head_inner{
+            margin: auto;
+            width: 100%;
+            height: 3.2rem;
+         
+        }
+        
+        #head_button{
+    
+            margin-top: 7px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: rgb(241, 219, 219);
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 12px;
+            height: 30px;
+            border-radius: 10px;
+            font-weight: 900;
+        }
+
+
+        .name{
+            background-color: white;
+            width: 100%;
+            height: 4rem;
+            position: relative;
+        }
+    
+        .name_inner{
+            margin: auto;
+            width: 80%;
+        
+        }
+        #b{
+            width: 100%;
+            height: 100%;
+        }
+
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        
+            .manu{
+                margin: 0;
+                background-color: #a155b9;
+                width: 100%;
+                height: 6rem;
+              position: relative;
+            }
+            
+        .manu_innera{
+            margin: auto;
+            width: 100%;
+            height: 6rem;
+          
+          }
+          #manu_button{
+            margin-top: .5px;
+            margin-left: 20px;
+            background-color: transparent;
+            height: 30px;
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 20px;
+            border: transparent;
+            text-decoration: none;
+            color: white;
+            list-style-type: none;
+            text-decoration: none;
+            font-family: BrowalliaUPC;
+          }
+          img{
+            height: 100%;
+           width:100%;
+        }
+        
+        #manu_franchise{
+            margin-left: 50px;
+            background-color: #c07dd5;
+            margin-top: .1rem;
+            height: 2rem;
+            width: 150px;
+            font-size: 15px;
+            border: transparent;
+            border-radius: 10px;
+           
+          }
+
+          .banner{
+            background-color: gray;
+            
+            width: 100%;
+            height: 15rem;
+          position: relative;
+          }
+        
+          .mySlides {display: none;}
+        img {vertical-align: middle;}
+        
+        /* Slideshow container */
+        .slideshow-container {
+          max-width: 100%;
+          position: relative;
+          margin: auto;
+        }
+        
+        
+        
+        
+        .introduction{
+            margin: auto;
+            top: 30px;
+            width: 100%;
+           height: 58rem;
+          position: relative;
+          }
+        .a1{
+            float: left;
+            margin-left: 10px;
+           
+            width: 100%;
+           
+          position: relative;
+          }
+          #int{
+           margin-top: 40px;
+           margin-right: 20px;
+           font-size: 18px;
+           font-family: Forte;
+          }
+          #ro{
+            margin-right: 30px;
+            margin-top: 20px;
+            font-size: 15px;
+position: relative;
+            text-align: justify;
+          }
+          .b1{
+            width: 100%;
+            height: 30rem;
+          position: absolute;
+          margin-top: 25rem;
+          }
+
+          .noti{
+            margin: auto;
+            top: 30px;
+            width: 95%;
+            background-color: rgb(237, 86, 31);
+            border-radius: 20px;
+            height: 35px;
+            position: relative;
+          }
+          #noti{
+            margin-top: 10px;
+            font-size: 15px;
+            color: white;
+          
+          }
+        
+          
+  .courses{
+    margin-top: 100px;
+      background-color: rgb(238, 161, 161);
+      width: 100%;
+      height: 70rem;
+    position: relative;
+  }
+  .courses_inner{
+    width: 80%;
+    margin: auto;
+    position: relative;
+    height: 45rem;
+  }
+  .notifecation{
+    width: 94%;
+    height: 20rem;
+    background-color: gold;
+    margin-top: 50px;
+    margin-left: auto;
+    
+  }
+  #news{
+    margin: 30px;
+    font-size: 25px;
+    color: white;
+  }
+
+  #topline{
+    color: white;
+    font-size: 12px;
+    margin: 10px ;
+  }
+  #top{
+    border: 2PX solid white;
+    background-color: blueviolet;
+    height: 40px;
+    width: 100%;
+    position: relative;
+  }  
+
+.notia{
+  margin: auto;
+  top: 30px;
+  width: 95%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  height: 35px;
+  position: relative;
+}
+
+
+.notia{
+  margin: auto;
+  top: 30px;
+  width: 95%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  height: 35px;
+  position: relative;
+}
+.programs{
+  margin-top: 100px;
+    
+    width: 100%;
+    height: 18rem;
+  position: relative;
+}
+.program{
+  margin: auto;
+    width: 80%;
+  position: relative;
+}
+.cour{
+  width: 90%;
+  height: 200px;
+  background-color: #a155b9;
+  
+  margin: 30px;
+  margin-top: 70px;
+  position: relative;
+}
+
+#pro{
+  margin-top: 100px;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 900;
+}
+#cou{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.notib{
+  margin-left: auto;
+  top: 550px;
+  width: 95%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  height: 35px;
+  position: relative;
+}
+
+
+
+
+.footer{
+  margin-top: 600px;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 60rem;
+  
+}
+.footer_inner{
+  width: 100%;
+  margin-top: 0px;
+  margin: auto;
+  
+  height: 60rem;
+}
+.contact{
+  margin-left: 20px;
+  margin-top:10px;
+  width: 100%;
+  height: 20rem;
+  
+ 
+
+}
+#ul{
+  color: white;
+  margin: 20px;
+  font-size: 25px;
+  list-style: none;
+
+}
+}
